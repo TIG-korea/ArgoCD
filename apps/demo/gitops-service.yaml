@@ -4,7 +4,7 @@ metadata:
   name: demo
   namespace: demo
 spec:
-  type: NodPort
+  type: NodePort
   selector:
     app: demo
   ports:
