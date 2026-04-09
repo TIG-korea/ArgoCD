@@ -14,4 +14,4 @@ resources:
 images:
   - name: docker.io/tigo1234/demo
     newName: docker.io/tigo1234/demo
-    newTag: f9809ac
+    newTag: f75eb2e
